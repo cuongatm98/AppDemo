@@ -1,0 +1,28 @@
+const colors = {
+  white: '#FFFFFF',
+  primary: '#45484A',
+  secondary: '#AEB5BB',
+  gray: '#D9D9D9',
+  gray9E9E9E: '#9E9E9E',
+  redc22026: '#CC2127',
+  redff424f: '#ff424f',
+  redfff2f0: '#fff2f0',
+  blue5ED651: '#5ED651',
+  blue178EE9: '#178EE9',
+  blue008001: '#008001',
+  background: '#efefef',
+  appDefault: '#FD9400',
+  appDefaultOpaci: '#FD940090',
+  black: '#000000',
+  blackOpaci: '#00000054',
+  whiteOpaci: '#9D9D9D7E',
+  textColor: '#525252',
+  colorff5c00: '#ff5c00',
+  blue2F54EC: '#2F54EC',
+  textWhite: '#FFFFFF',
+  textBlack: '#2D2D2D',
+  colorsGradient: ['#FAC635FF', '#F7BF31FF', '#F1A233FF'],
+  colorsGradient2: ['#FBD6B2FF', '#FDE4B0FF', '#FEEAB5FF'],
+};
+
+export default colors;
